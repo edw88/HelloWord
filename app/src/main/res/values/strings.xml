@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hello Word</string>
+    <string name="superman">Superman</string>
+    <string name="nombre">Clark Kente</string>
 </resources>
