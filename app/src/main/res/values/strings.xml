@@ -1,5 +1,25 @@
 <resources>
-    <string name="app_name">Hello Word</string>
-    <string name="registro">Registro de un super heroe</string>
+    <string name="app_name">DC Comics</string>
+    <string name="ciudad_nacimiento">Ciudad de Nacimiento</string>
+    <string name="estatura">Estatura</string>
+    <string name="femenino">Femenino</string>
+    <string name="genero">Género</string>
+    <string name="info">"Nombre: %s,\n estatura: %f, \n genero: %s, \n poderes: %s, \n ciudad: %s "</string>
     <string name="registrar">Registrar</string>
+    <string name="registrar_superheroe">Registro de un Superheroe</string>
+    <string name="masculino">Masculino</string>
+    <string name="poderes">Poderes</string>
+    <string name="super_fuerza">Super Fuerza</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="super_velocidad">Super Velocidad</string>
+    <string name="telequinesis">Telequinesis</string>
+
+    <string-array name="lista_ciudades">
+        <item>Ciudad Central</item>
+        <item>Metrópolis</item>
+        <item>Wacanda</item>
+        <item>Kripton</item>
+        <item>Ciudad Gótica</item>
+    </string-array>
+
 </resources>
