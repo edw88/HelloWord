@@ -2,4 +2,8 @@
     <string name="app_name">Hello Word</string>
     <string name="superman">Superman</string>
     <string name="nombre">Clark Kente</string>
+    <string name="nombre_superman">Clark Kent</string>
+    <string name="nombre_super">Nombre:</string>
+    <string name="poderes_super">Poderes:</string>
+    <string name="poderes_superman">" super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor"</string>
 </resources>

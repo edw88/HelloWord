@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ISAMANTHA/AndroidStudioProjects/HelloWord/app/src/main/res/layout-land/activity_main.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/ISAMANTHA/AndroidStudioProjects/HelloWord/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ISAMANTHA/AndroidStudioProjects/HelloWord/app/src/main/res/layout/activity_registro_superheroe2.xml" value="0.33" />
       </map>
     </option>
   </component>
